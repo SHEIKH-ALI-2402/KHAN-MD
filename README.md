@@ -54,22 +54,8 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 
 > **Get Pair Code (Session ID)**
 
-<a href='https://khanmdx.onrender.com' target="_blank">
+<a href='https://sheikh-ali-md-pair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-> **Get Pair Code (Session ID)**
-
-<a href='https://khanmdx2.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=opencv&logoColor=white'/>
-</a>
-<br> 
-
-> **Get Pair Code (Session ID)**
-
-<a href='https://khanmdx3.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
@@ -84,7 +70,7 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SHEIKH-ALI-2402/KHAN-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/SHEIKH-ALI-2402/KHAN-MD/tree/main' target="_blank"><img alt='Heroku' s='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 <h4 align="center">2. TaikDrove Free</h4>
 <p style="text-align: center; font-size: 1.2em;">
